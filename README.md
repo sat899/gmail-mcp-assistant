@@ -62,17 +62,3 @@ Once configured, you can use the tools in Claude Desktop. Simply start a chat an
 
 - `get_unread_emails`: Retrieve unread emails from your inbox
 - `create_draft_reply`: Create a draft reply for a specific email thread
-
-### Examples
-
-#### Getting Unread Emails
-
-![Get Unread Emails Example](screenshots/get_unread_emails_example.PNG)
-
-#### Creating a Draft Reply
-
-![Create Draft Reply Example](screenshots/create_draft_reply_example.PNG)
-
-#### Draft Reply in Gmail
-
-![Draft Reply in Gmail](screenshots/draft_reply_example.PNG)
